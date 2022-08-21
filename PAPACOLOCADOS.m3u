@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 HD FULL HD" tvg-logo="" group-title="DAZN",DAZN LaLiga2 HD FULL HD
+http://trq1c2jmeunykdh0vpfjes.green.onerunthisway.me/live/sun.php?z=997&u=lfJeLtvLsK&s=7160777774&id=27163&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 HD" tvg-logo="" group-title="DAZN",DAZN LaLiga2 HD
+http://or0vye2nuv6ws7lkt9bsag.green.onerunthisway.me/live/sun.php?z=997&u=lfJeLtvLsK&s=7160777774&id=27161&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaFULLHD" tvg-logo="" group-title="DAZN",DAZN LaLigaFULLHD
+http://obylhxtqzief96msvwyjaf.green.onerunthisway.me/live/sun.php?z=997&u=lfJeLtvLsK&s=7160777774&id=27162&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD" tvg-logo="" group-title="DAZN",DAZN LaLigaHD
+http://m13frdlhvnkaxypwzg2cur.green.onerunthisway.me/live/sun.php?z=997&u=lfJeLtvLsK&s=7160777774&id=27160&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Max 1" tvg-logo="" group-title="PELICULAS 24H",HBO Max 1
 http://X4EjP1s5SpTAK27ZtBUCcg.green.onerunthisway.me/live/sun.php?z=997&u=lfJeLtvLsK&s=7160777774&id=26649&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Max 2" tvg-logo="" group-title="PELICULAS 24H",HBO Max 2
